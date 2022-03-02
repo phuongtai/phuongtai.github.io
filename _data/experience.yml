@@ -1,12 +1,38 @@
 - layout: left
   company: The ERP Solution Company
-  link: idontwanttosay.com
+  link: besco.vn
   job_title: Technical Consultant
   dates: October 2017 - December 2019
   quote: >
-    - The getting started of coding career.
-    - Find new challenges to show my abilities.
-    - Burn with my own soul for working
+    I have started of coding career here, I was always find new challenges to show my abilities and burn with my own soul for working. 
+    I used to work until 4AM in the most difficult time. 
   description: | # this will include new lines to allow paragraphs
     - Analytic business model and solution for system.
-    - Developing base on business model and architecture of system
+    - Developing base on business model and architecture of system.
+
+
+
+- layout: left
+  company: The E-marketing Solution Company
+  link: chidoanh.vn
+  job_title: Backend Developer
+  dates: January 2020 - June 2021
+  quote: >
+    After have wonderful time, I left the old company to find a new challenge by learning a new things what I think it actually help me until now
+  
+  description: | # this will include new lines to allow paragraphs
+    - Learning mirco-services architecture with related fields that awesome.
+    - Writing some idea about pushing application faster and more efficient.
+
+
+- layout: left
+  company: The SAAS Maintenance Service System
+  link: servicenode.se
+  job_title: Backend Developer
+  dates: December 2020 - Now
+  quote: >
+    After have wonderful time, I left the old company to find a new challenge by learning a new things what I think it actually help me until now
+  
+  description: | # this will include new lines to allow paragraphs
+    - Learning mirco-services architecture with related fields that awesome.
+    - Writing some idea about pushing application faster and more efficient.
